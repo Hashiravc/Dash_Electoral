@@ -18,8 +18,9 @@ Docente: *Mag. Patrick José Cuadros Quiroga*
 
 Integrantes:
 
-***Vargas Candia, Hashira Belén (2020067891)***  
-***Platero Choque, Víctor Raúl (2020068124)***  
+***Andia Navarro, Diego Fabrizio (2022073906)***  
+***Vargas Candia, Hashira Belén (2022075480)***  
+***Platero Maron, Victor Joseph (2022075478)***  
 ***(Grupo 1)***
 
 **Tacna – Perú**

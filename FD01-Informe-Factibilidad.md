@@ -18,8 +18,9 @@ Docente: *Mag. Patrick José Cuadros Quiroga*
 
 Integrantes:
 
-***Vargas Candia, Hashira Belén (2020067891)***  
-***Platero Choque, Víctor Raúl (2020068124)***  
+***Andia Navarro, Diego Fabrizio (2022073906)***  
+***Vargas Candia, Hashira Belén (2022075480)***  
+***Platero Maron, Victor Joseph (2022075478)***  
 ***(Grupo 1)***
 
 **Tacna – Perú**
@@ -204,17 +205,19 @@ Versión *1.0*
 
     4.2.4. Costos de personal
 
-    El equipo técnico está compuesto por dos ingenieros de sistemas en formación, desempeñando roles clave en el ciclo de vida del proyecto durante 8 semanas (dedicación de 15 horas semanales por integrante, totalizando 120 horas por persona):
+    El equipo técnico está compuesto por tres estudiantes de ingeniería de sistemas, desempeñando roles clave en el ciclo de vida del proyecto durante 8 semanas (dedicación de 10 horas semanales por integrante, totalizando 80 horas por persona):
 
     | Rol | Responsable | Horas Dedicadas | Tarifa por Hora (S/.) | Costo Total (S/.) |
     | :--- | :--- | :---: | :---: | :---: |
-    | **Líder de Proyecto & Especialista BI** | Hashira Belén Vargas Candia | 120 hrs | 25.00 | 3,000.00 |
-    | **Desarrollador Front-End & Analista QA** | Víctor Raúl Platero Choque | 120 hrs | 25.00 | 3,000.00 |
+    | **Arquitecto de Software & UI/UX** | Diego Fabrizio Andia Navarro | 80 hrs | 25.00 | 2,000.00 |
+    | **Líder de Proyecto & Especialista BI** | Hashira Belén Vargas Candia | 80 hrs | 25.00 | 2,000.00 |
+    | **Desarrollador Front-End & Analista QA** | Victor Joseph Platero Maron | 80 hrs | 25.00 | 2,000.00 |
     | **Total** | **Costos de Personal** | **240 hrs** | | **S/. 6,000.00** |
 
     *Organización y roles:*
-    - **Líder de Proyecto & Especialista BI:** Responsable de la gestión del cronograma, recolección y depuración de datos electorales (`data.json`), análisis de métricas (KPIs), diseño de experiencia de usuario y documentación de factibilidad y visión.
-    - **Desarrollador Front-End & Analista QA:** Responsable de la implementación de la interfaz en HTML5/CSS3/JS, motor de filtrado del módulo de vecinos (`citizen.json`), scripts de compilación Node.js, pruebas de rendimiento multiplataforma y despliegue en Render.
+    - **Diego Fabrizio Andia Navarro:** Responsable de la arquitectura de vistas, especificación y diseño UX/UI.
+    - **Hashira Belén Vargas Candia:** Responsable de la dirección del proyecto, estructuración de datos (`data.json`) y análisis de métricas.
+    - **Victor Joseph Platero Maron:** Responsable del desarrollo interactivo, motor de búsqueda cívico (`citizen.json`) y despliegue continuo.
     - *Horario de trabajo:* Lunes a viernes de 16:00 a 19:00 horas, con sesiones de integración y sincronización los días sábados.
 
     4.2.5. Costos totales del desarrollo del sistema
